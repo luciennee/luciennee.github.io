@@ -1,5 +1,14 @@
 body{
     background: black;
-    font-family: 'Courier New', Courier, monospace;
+    font-family: 'Times New Roman', Times, serif;
     color: white;
+}
+nav ul li a{
+    list-style-type: none;
+    color: white;
+    margin: 3px;
+}
+footer{
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
 }
