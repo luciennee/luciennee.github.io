@@ -2,13 +2,22 @@ body{
     background: black;
     font-family: 'Times New Roman', Times, serif;
     color: white;
+    text-align: center;
+    display: inline;
+    list-style-type:none;
 }
 nav ul li a{
     list-style-type: none;
     color: white;
     margin: 3px;
+    display: inline;
+    list-style-type:none;
 }
 footer{
     color: white;
     font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+img{
+    image-resolution: 200px;
 }
